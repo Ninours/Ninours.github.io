@@ -1,0 +1,28 @@
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+
+
+p.welcome{
+	color: red;
+}
+
+p.James{
+	color: blue;
+}
+
+body{
+	background: url("https://www.loudwallpapers.com/wp-content/uploads/2018/11/beautiful-lonely-night-4k-wallpaper.jpg") no-repeat;
+
+}
+
+
+
+footer{
+		background-color: red;
+	
+}
